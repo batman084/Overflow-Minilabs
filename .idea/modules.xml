@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/dhruv/dhruv.iml" filepath="$PROJECT_DIR$/dhruv/dhruv.iml" />
       <module fileurl="file://$PROJECT_DIR$/gautam/gautam.iml" filepath="$PROJECT_DIR$/gautam/gautam.iml" />
       <module fileurl="file://$PROJECT_DIR$/jacob/jacob.iml" filepath="$PROJECT_DIR$/jacob/jacob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/main.iml" filepath="$PROJECT_DIR$/.idea/modules/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/sanvi/sanvi.iml" filepath="$PROJECT_DIR$/sanvi/sanvi.iml" />
     </modules>
   </component>
