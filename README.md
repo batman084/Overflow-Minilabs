@@ -13,9 +13,9 @@ Jacob Rozenkrants | [@jar04](https://github.com/jar04) |
 ## Important Links
 
 Sanvi Tickets
-- [Inheritance With Abstract Class] (https://github.com/batman084/Overflow-Minilabs/tree/main/src/sanvi/src/InheritanceWithAbstract)
-- [Inheritance] (https://github.com/batman084/Overflow-Minilabs/tree/main/src/sanvi/src/Inheritance)
-- [Recursion] (https://github.com/batman084/Overflow-Minilabs/tree/main/src/sanvi/src/Recursion)
+- [Inheritance With Abstract Class](https://github.com/batman084/Overflow-Minilabs/tree/main/src/sanvi/src/InheritanceWithAbstract)
+- [Inheritance](https://github.com/batman084/Overflow-Minilabs/tree/main/src/sanvi/src/Inheritance)
+- [Recursion](https://github.com/batman084/Overflow-Minilabs/tree/main/src/sanvi/src/Recursion)
 
 Gautam Tickets
 
