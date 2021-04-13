@@ -12,7 +12,7 @@ public class Main {
         System.out.println("Area of Square" + sq.area(4,4));
 
         Triangle tri = new Triangle(3,2,"Triangle");
-        System.out.println("Area of Triangle" + tri.area(3,2));
+        System.out.println("ToString override of Triangle: " + tri);
 
     }
 }

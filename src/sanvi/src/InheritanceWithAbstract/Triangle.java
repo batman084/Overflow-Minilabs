@@ -18,4 +18,8 @@ public class Triangle extends Shape //extends tells us that inheritance is happe
     {
         return b * h * 1/2;
     }
+
+    public String toString(){
+        return "This is a triangle with a base of " + base + " and a height of " + height;
+    }
 }
