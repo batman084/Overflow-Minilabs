@@ -8,7 +8,7 @@ public class ArnavRecursion {
 
         System.out.println("Which numebr would you like to count backwards from and then add up all together from 1-50?");
 
-            backwards(14);
+            backwards(12);
     }
         public static void backwards(int n) {
 
