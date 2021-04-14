@@ -27,5 +27,5 @@ Jacob Tickets
 - []
 
 Arnav Tickets
-- [Recursion](https://github.com/batman084/Overflow-Minilabs/tree/main/src/arnav)
+- [Recursion and Inheritance minilabs](https://github.com/batman084/Overflow-Minilabs/tree/main/src/arnav)
 - 
