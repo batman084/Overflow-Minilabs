@@ -24,7 +24,7 @@ Dhruv Tickets
 - [Recursion](https://github.com/batman084/Overflow-Minilabs/tree/main/src/dhruv/src)
 
 Jacob Tickets
-- []
+- [Recursion](https://github.com/batman084/Overflow-Minilabs/blob/main/MIniLabPractice)
 
 Arnav Tickets
 - [Recursion and Inheritance minilabs](https://github.com/batman084/Overflow-Minilabs/tree/main/src/arnav)
