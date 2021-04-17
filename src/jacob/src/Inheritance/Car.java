@@ -14,10 +14,10 @@ public class Car
         speed = 0;
     }
 
-    public Car(int changeWheels, int changeSpeed) //constructor of set type
+    public Car(int initialWheels, int initialSpeed) //constructor of set type
     {
-        this.wheels = changeWheels;  //values are given to private instance variable
-        this.speed = changeSpeed;
+        this.wheels = initialWheels;  //values are given to private instance variable
+        this.speed = initialSpeed;
     }
 
     public int getWheels() //public so that way when I create a subclass, other classes can access that way they can return the value through this accessor method
