@@ -12,31 +12,31 @@ public class Truck extends Car //identifies that we will be inheriting component
         trailer = 0; //must give trailer value of 0
     }
 
-    public Car(int startGear, int startSpeed, int startHeight)
+    public Car(int initialWheels, int initialSpeed, int initialTrailer)
     {
-        super (startGear, startSpeed); //executing a constructor with two args, computer goes to bicycle class and gives gear and speed a specific value; super keyowrd in first line
+        super (initialWheels,initialSpeed); //executing a constructor with two args, computer goes to bicycle class and gives gear and speed a specific value; super keyowrd in first line
         // can't say gear = startFear becuase gear instance variable is private, subclass doesn't have direct access
-        setGear(startGear); //setter and getter accesses private instance variables implicitly
-        seatHeight = startHeight; //seatHeight not a value of super class and must give value
+        setWheels(initialWheels); //setter and getter accesses private instance variables implicitly
+        this.trailer = initialTrailer; //seatHeight not a value of super class and must give value
     }
 
-    public int getHeight()
+    public int getTrailer()
     {
-        return seatHeight;
+        return this.trailer;
     }
 
-    public void setHeight (int h)
+    public void setTrailer (int trailer)
     {
-        seatHeight = h;
+        this.trailer = trailer;
     }
 
-    public void slowDown(int decrement) //we have exact same methods in superclass, method overrriding, subclass replacing exisitng method in bicycle class
+    public void decreaseSpeed(int value) //we have exact same methods in superclass, method overrriding, subclass replacing exisitng method in bicycle class
     {
-        setSpeed( getSpeed() - (decrement / 2));
+        setSpeed(getSpeed() - (value / 3));
     }
 
-    public void speedUp(int increment)
+    public void increaseSpeed(int value)
     {
-        setSpeed( getSpeed() + (increment / 2 ));
+        setSpeed( getSpeed() + (value / 3 ));
     }
 }
