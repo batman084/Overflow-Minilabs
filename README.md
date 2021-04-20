@@ -24,7 +24,7 @@ Dhruv Tickets
 - [Recursion](https://github.com/batman084/Overflow-Minilabs/tree/main/src/dhruv/src)
 
 Jacob Tickets
-- [Recursion](https://github.com/batman084/Overflow-Minilabs/blob/main/MIniLabPractice)
+- [Recursion](https://github.com/batman084/Overflow-Minilabs/blob/main/src/jacob/src/Recursion)
 - [Inheritance](https://github.com/batman084/Overflow-Minilabs/tree/main/src/jacob/src/Inheritance)
 - [Self-Grade](https://github.com/batman084/Overflow-Minilabs/blob/main/src/jacob/src/Self-Grade)
 
