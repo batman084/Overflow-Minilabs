@@ -3,8 +3,9 @@ package com.nighthawk.csa.Minilab.gautam.APMiniLab;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.stereotype.Controller;
 
-@org.springframework.stereotype.Controller
+@Controller
 public class GAPController {
     @GetMapping("/GautamAPMiniLab")
     public String test(@RequestParam(name = "minSteps", required = true, defaultValue = "1000") int minSteps, @RequestParam(name = "steps", required = true, defaultValue = "100") int steps, Model model){
