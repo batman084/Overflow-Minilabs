@@ -1,10 +1,11 @@
 package com.nighthawk.csa.Minilab.gautam.Inheritance;
 
+import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-@org.springframework.stereotype.Controller
+@Controller
 public class GInheritanceController {
     @GetMapping("/GautamInheritance")
     public String test(@RequestParam(name = "role", required = true, defaultValue = "Staffer") String role,
