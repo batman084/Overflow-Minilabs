@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Overflow-Minilabs.iml" filepath="$PROJECT_DIR$/Overflow-Minilabs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/arnav/arnav.iml" filepath="$PROJECT_DIR$/arnav/arnav.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dhruv/dhruv.iml" filepath="$PROJECT_DIR$/dhruv/dhruv.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gautam/gautam.iml" filepath="$PROJECT_DIR$/gautam/gautam.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jacob/jacob.iml" filepath="$PROJECT_DIR$/jacob/jacob.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/main.iml" filepath="$PROJECT_DIR$/.idea/modules/main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sanvi/sanvi.iml" filepath="$PROJECT_DIR$/sanvi/sanvi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csa.iml" filepath="$PROJECT_DIR$/csa.iml" />
     </modules>
   </component>
 </project>
